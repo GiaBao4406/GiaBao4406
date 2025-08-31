@@ -27,16 +27,31 @@ Exercises and examples for Object-Oriented Programming with C#.
 ## 🚀 My Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=500&lines=💻+Programming+Languages;🌐+Web+Development;📱+Mobile+Development;🤖+AI+%26+Machine+Learning;🗄️+Databases" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+Programming+Languages;🌐+Web+Development;📱+Mobile+Development;🗄️+Databases;🤖+AI+%26+Machine+Learning" />
 </p>
 
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" />
   <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
 </p>
 
@@ -53,4 +68,4 @@ Exercises and examples for Object-Oriented Programming with C#.
 - Facebook: [fb.com/gibor06](https://www.facebook.com/gibor06)
 
 ---
-⭐️ THANKS FOR WATCHING
+<p align="center">⭐️ THANKS FOR WATCHING</p>
