@@ -1,8 +1,9 @@
 # Hello, I'm TRAN GIA BAO
-🎓 Year 2 IT student | Aspiring Software Engineer  
-💡 Passionate about Web, Mobile, and AI development
-🌍 Goal: Work in global tech companies with professional environment
-⚡ Hobbies: Coding, AI research, teamwork, knowledge sharing
+🎓 Year 2 IT Student | Aspiring Software Engineer  
+💡 Interested in Web, Mobile & AI Development  
+🌍 Goal: Contribute to global tech companies in a professional environment  
+⚡ Hobbies: Coding • AI Research • Teamwork • Knowledge Sharing
+
 ---
 
 ## 🚀 Skills
