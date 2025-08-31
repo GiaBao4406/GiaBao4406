@@ -30,7 +30,6 @@ Exercises and examples for Object-Oriented Programming with C#.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+Programming+Languages" />
 </p>
 
-### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" />
@@ -38,14 +37,18 @@ Exercises and examples for Object-Oriented Programming with C#.
   <img src="https://skillicons.dev/icons?i=python" height="50" />
 </p>
 
-### 🌐 Web Development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🌐+Web+Development" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" />
 </p>
 
-### 📱 Mobile Development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=📱+Mobile+Development" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" />
 </p>
