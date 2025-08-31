@@ -1,6 +1,5 @@
-
-# Hello, I'm TRAN GIA BAO 👋
 <p align="center">
+# Hello, I'm TRAN GIA BAO 👋 </br>
 🎓 Year 2 IT Student at HUIT, Ho Chi Minh City | Aspiring Software Engineer  </br>
 💡 Interested in Web, Mobile & AI Development </br> 
 🌍 Goal: Contribute to global tech companies in a professional environment  </br>
