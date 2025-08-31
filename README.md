@@ -31,7 +31,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 ## 📫 Contact  
 
 - Email: **g.baotran06@gmail.com**  
-- Facebook: [fb.com/yourprofile](https://www.facebook.com/gibor06)
+- Facebook: [fb.com/gibor06](https://www.facebook.com/gibor06)
 
 ---
 ⭐️ THANKS FOR WATCHING
