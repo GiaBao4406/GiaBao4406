@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm TRAN GIA BAO
+🎓 Year 2 IT student | Aspiring Software Engineer  
+💡 Passionate about Web, Mobile, and AI development
+🌍 Goal: Work in global tech companies with professional environment
+⚡ Hobbies: Coding, AI research, teamwork, knowledge sharing
+---
 
-<!--
-**GiaBao4406/GiaBao4406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Languages:** C, C#, Java, Python
+- **Web:** HTML, CSS, JavaScript (learning React, Node.js)  
+- **Mobile:** Android (Java/Kotlin), Flutter (upcoming)  
+- **AI:** Researching, exploring and learning  
+- **Others:** Git, GitHub, teamwork, strong communication
 
-Here are some ideas to get you started:
+## 📌 Highlight Projects
+### 🔹 [Self-introduction website](https://github.com/GiaBao4406/webGioiThieuBanThan01)
+A personal website to introduce myself.
+### 🔹 [Year 1 Summary Website](https://github.com/GiaBao4406/WebTongKetNam1)
+Year 1 Summary Website – presents grades and achievements in the first year of study.
+### 🔹 [OOP with C#](https://github.com/GiaBao4406/OOP-with-C-)  
+Exercises and examples for Object-Oriented Programming with C#. 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+
+![GiaBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical)
+---
+
+## 📫 Contact  
+
+- Email: **g.baotran06@gmail.com**  
+- Facebook: [fb.com/yourprofile](https://www.facebook.com/gibor06)
+
+---
+⭐️ THANKS FOR WATCHING
