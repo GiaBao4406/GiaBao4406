@@ -24,8 +24,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ## 📊 GitHub Stats  
 
-![GiaBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical)
+![GiaBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical)
 ---
 
 ## 📫 Contact  
