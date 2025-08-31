@@ -26,33 +26,29 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ## 🛠️ My Tech Stack & Skills  
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-
-  <!-- Web Development -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
-</p>
-
----
-
-### ✨ Extra Effects  
+## 🛠️ My Tech Stack & Skills  
 
 <p align="center">
-  <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Programming+Languages;🌐+Web+Development;🗄️+Databases" alt="Typing SVG" />
-</p>
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
 
-<p align="center">
-  <!-- Wave Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=80&section=footer"/>
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3) rotate(10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
+
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
+
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3) rotate(-10deg)'" onmouseout="this.style.transform='scale(1) rotate(0deg)'"/>
 </p>
 
 ---
