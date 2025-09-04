@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Skills
-- **Languages:** C, C#, Java, Python
+- **Languages:** C/C++, C#, Java, Python
 - **Web:** HTML, CSS, JavaScript (learning React, Node.js)  
 - **Mobile:** Android (Java/Kotlin), Flutter (upcoming)  
 - **AI:** Researching, exploring and learning  
