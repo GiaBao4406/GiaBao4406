@@ -48,8 +48,8 @@ Programming Languages
 </table>
 
 <!-- Web Development -->
-<p align="center" style="color:#1E90FF; font-weight:bold; font-size:180px;">
-🌐 Web Development
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:32px;">
+Web Development
 </p>
 <table align="center">
   <tr>
@@ -66,8 +66,8 @@ Programming Languages
 </table>
 
 <!-- Mobile Development -->
-<p align="center" style="color:#1E90FF; font-weight:bold; font-size:180px;">
-📱 Mobile Development
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:32px;">
+Mobile Development
 </p>
 <table align="center">
   <tr>
