@@ -27,8 +27,8 @@ Exercises and examples for Object-Oriented Programming with C#.
 ## 🚀 My Tech Stack & Skills  
 
 <!-- Programming Languages -->
-<p align="center" style="color:#1E90FF; font-weight:bold; font-size:180px;">
-💻 Programming Languages
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:32px;">
+Programming Languages
 </p>
 <table align="center">
   <tr>
