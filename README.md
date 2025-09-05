@@ -33,10 +33,19 @@ Exercises and examples for Object-Oriented Programming with C#.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" />
   <br>★★★★★
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" />
   <br>★★★★☆
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" />
   <br>★★★☆☆
+</p>
+
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />
   <br>★★☆☆☆
 </p>
@@ -47,8 +56,14 @@ Exercises and examples for Object-Oriented Programming with C#.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" />
   <br>★★★★☆
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" />
   <br>★★★☆☆
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" />
   <br>★★☆☆☆
 </p>
