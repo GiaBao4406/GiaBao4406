@@ -57,12 +57,14 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical" alt="GiaBao's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical" height="165"/>
 </p>
-
+<p align="center">
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-4AB6F6?style=for-the-badge)
+  ![Top Contributor](https://img.shields.io/badge/Top%20Contributor-Yes-brightgreen?style=for-the-badge)
+</p>
 ---
 
 ## 📫 Contact  
