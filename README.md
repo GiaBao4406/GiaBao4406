@@ -74,9 +74,6 @@ Exercises and examples for Object-Oriented Programming with C#.
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" /><br>★★★☆☆
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter" height="50" title="Flutter" /><br>★★☆☆☆
-    </td>
   </tr>
 </table>
 
