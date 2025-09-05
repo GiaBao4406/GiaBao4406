@@ -31,19 +31,26 @@ Exercises and examples for Object-Oriented Programming with C#.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" />
+  <br>★★★★★
+  <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" />
+  <br>★★★★☆
+  <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" />
+  <br>★★★☆☆
+  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />
+  <br>★★☆☆☆
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🌐+Web+Development" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" />
+  <br>★★★★☆
+  <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" />
+  <br>★★★☆☆
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" />
+  <br>★★☆☆☆
 </p>
 
 <p align="center">
@@ -51,57 +58,9 @@ Exercises and examples for Object-Oriented Programming with C#.
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" />
+  <br>★★★☆☆
 </p>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+Programming+Languages" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />
-</p>
-
-<p align="center">
-  <!-- Web Development -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🌐+Web+Development" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" />
-</p>
-
-<p align="center">
-  <!-- Mobile Development -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=📱+Mobile+Development" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" title="Android (Java/Kotlin)" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" title="Flutter (Upcoming)" />
-</p>
-
-<p align="center">
-  <!-- AI & Research -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Research" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Exploring-yellow" title="AI Research" />
-  <img src="https://img.shields.io/badge/Data%20Science-Learning-orange" title="Data Science" />
-</p>
-
-<p align="center">
-  <!-- Tools & Others -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🛠️+Tools+%26+Others" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-GitHub-blue" title="Git & GitHub" />
-  <img src="https://img.shields.io/badge/VSCode-IDE-brightgreen" title="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-IDE-brightgreen" title="Android Studio" />
-  <img src="https://img.shields.io/badge/Teamwork-Strong-blue" title="Teamwork & Communication" />
-</p>
 ---
 
 ## 📊 GitHub Stats  
@@ -110,6 +69,7 @@ Exercises and examples for Object-Oriented Programming with C#.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
 </p> 
+
 ---
 
 ## 📫 Contact  
@@ -124,4 +84,5 @@ Exercises and examples for Object-Oriented Programming with C#.
 </p>
 
 ---
+
 <p align="center">⭐️ THANKS FOR WATCHING</p>
