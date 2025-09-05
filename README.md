@@ -27,8 +27,8 @@ Exercises and examples for Object-Oriented Programming with C#.
 ## 🚀 My Tech Stack & Skills  
 
 <!-- Programming Languages -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+Programming+Languages" />
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:22px;">
+💻 Programming Languages
 </p>
 <table align="center">
   <tr>
@@ -48,8 +48,8 @@ Exercises and examples for Object-Oriented Programming with C#.
 </table>
 
 <!-- Web Development -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🌐+Web+Development" />
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:22px;">
+🌐 Web Development
 </p>
 <table align="center">
   <tr>
@@ -66,8 +66,8 @@ Exercises and examples for Object-Oriented Programming with C#.
 </table>
 
 <!-- Mobile Development -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=📱+Mobile+Development" />
+<p align="center" style="color:#1E90FF; font-weight:bold; font-size:22px;">
+📱 Mobile Development
 </p>
 <table align="center">
   <tr>
@@ -79,12 +79,13 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=blue" height="165" style="display:inline-block; margin:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=blue" height="165" style="display:inline-block; margin:10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=blue" height="165" style="display:inline-block; margin:10px;"/>
+</p>
+
 
 ---
 
