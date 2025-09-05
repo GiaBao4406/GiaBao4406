@@ -27,7 +27,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 ## 🚀 My Tech Stack & Skills  
 
 <!-- Programming Languages -->
-<h2 align="center">Programming Languages</h2>
+<h3 align="center">Programming Languages</h3>
 
 <table align="center">
   <tr>
@@ -47,7 +47,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 </table>
 
 <!-- Web Development -->
-<h2 align="center">Web Development</h2>
+<h3 align="center">Web Development</h3>
 <table align="center">
   <tr>
     <td align="center">
@@ -63,7 +63,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 </table>
 
 <!-- Mobile Development -->
-<h2 align="center">Mobile Development</h2>
+<h3 align="center">Mobile Development</h3>
 <table align="center">
   <tr>
     <td align="center">
