@@ -26,55 +26,59 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ## 🚀 My Tech Stack & Skills  
 
+<!-- Programming Languages -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+Programming+Languages" />
 </p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" /><br>★★★★★
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" /><br>★★★★☆
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" /><br>★★★☆☆
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /><br>★★☆☆☆
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" />
-  <br>★★★★★
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" />
-  <br>★★★★☆
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" />
-  <br>★★★☆☆
-</p>
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" />
-  <br>★★☆☆☆
-</p>
-
+<!-- Web Development -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=🌐+Web+Development" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" />
-  <br>★★★★☆
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /><br>★★★★☆
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" /><br>★★★☆☆
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" /><br>★★☆☆☆
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" />
-  <br>★★★☆☆
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" />
-  <br>★★☆☆☆
-</p>
-
+<!-- Mobile Development -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=📱+Mobile+Development" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" />
-  <br>★★★☆☆
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" /><br>★★★☆☆
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter" height="50" title="Flutter" /><br>★★☆☆☆
+    </td>
+  </tr>
+</table>
 
 ---
 
