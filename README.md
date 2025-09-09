@@ -32,7 +32,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" /><br>★★★★★
+      <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" /><br>★★★★☆
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" /><br>★★★★☆
@@ -51,7 +51,7 @@ Exercises and examples for Object-Oriented Programming with C#.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /><br>★★★★☆
+      <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /><br>★★★☆☆
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" /><br>★★★☆☆
