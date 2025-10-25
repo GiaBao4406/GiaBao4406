@@ -15,7 +15,7 @@
 - **Others:** Git, GitHub, teamwork, strong communication
 
 ## 📌 Highlight Projects
-### 🔹 [My CV](giabao4406.github.io/CV/](https://github.com/GiaBao4406/CV).
+### 🔹 [My CV](https://github.com/GiaBao4406/CV)
 My current CV.
 ### 🔹 [Self-introduction website](https://github.com/GiaBao4406/webGioiThieuBanThan01)
 My current CV.
