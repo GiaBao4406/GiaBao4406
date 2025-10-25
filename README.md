@@ -15,8 +15,10 @@
 - **Others:** Git, GitHub, teamwork, strong communication
 
 ## 📌 Highlight Projects
+### 🔹 [My CV](giabao4406.github.io/CV/)
+.
 ### 🔹 [Self-introduction website](https://github.com/GiaBao4406/webGioiThieuBanThan01)
-A personal website to introduce myself.
+My current CV.
 ### 🔹 [Year 1 Summary Website](https://github.com/GiaBao4406/WebTongKetNam1)
 Year 1 Summary Website – presents grades and achievements in the first year of study.
 ### 🔹 [OOP with C#](https://github.com/GiaBao4406/OOP-with-C-)  
