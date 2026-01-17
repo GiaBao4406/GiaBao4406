@@ -43,7 +43,7 @@ Exercises and examples for Object-Oriented Programming with C#.
       <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" /><br>★★★☆☆
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /><br>★★☆☆☆
+      <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /><br>★★★☆☆
     </td>
   </tr>
 </table>
