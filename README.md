@@ -17,7 +17,7 @@
 ## 📌 Highlight Projects
 ### 🔹 [My CV](https://github.com/GiaBao4406/CV)
 My current CV.
-### 🔹 [subject project]([https://github.com/GiaBao4406/webGioiThieuBanThan01](https://giabao4406.github.io/GIBOR-COFFEE-SHOP/))
+### 🔹 [subject project](https://giabao4406.github.io/GIBOR-COFFEE-SHOP/)
 This is my university course project. My team members and I worked on this project.
 ### 🔹 [Year 1 Summary Website](https://github.com/GiaBao4406/WebTongKetNam1)
 Year 1 Summary Website – presents grades and achievements in the first year of study.
