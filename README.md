@@ -78,8 +78,6 @@ Exercises and examples for Object-Oriented Programming with C#.
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiaBao4406&show_icons=true&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao4406&layout=compact&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
 </p>
 
