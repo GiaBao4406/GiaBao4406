@@ -85,7 +85,7 @@ Currently I focus on:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
 - Git & GitHub
