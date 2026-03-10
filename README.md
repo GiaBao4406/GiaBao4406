@@ -20,8 +20,8 @@
 <h3 align="center">🌐 Available Languages</h3>
 
 <p align="center">
-  <a href="#english">🇺🇸 English</a> |
   <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> |
+  <a href="#english">🇺🇸 English</a> |
   <a href="#zhongwen">🇨🇳 中文</a>
 </p>
 
@@ -85,6 +85,7 @@ Currently I focus on:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 - Git & GitHub
@@ -92,6 +93,106 @@ Currently I focus on:
 - Visual Studio 2022
 - SQL Server
 - Team collaboration and project workflow
+
+---
+## 🏆 Academic Achievements & Honors
+
+### 🔬 1. Scientific Research
+
+<table>
+<tr>
+<td width="50%">
+
+**🥉 Third Prize – Faculty-Level Scientific Research (2024–2025)**  
+Research Project:
+
+**“Development of the Multi Aura Social Network with PhoBERT-based Natural Language Processing for Detecting and Preventing Inappropriate Online Comments.”**
+
+<img src="./thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+**🥈 Second Prize – Faculty-Level Scientific Research (2024–2025)**  
+Research Project:
+
+**“Research on the EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.”**
+
+<img src="./thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**🏅 Consolation Prize – University-Level Student Scientific Research Competition (2024–2025)**  
+Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
+
+<img src="./thanhTich_2025/nckh_CapTruong_2025.jpg" width="60%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 2. Academic & Professional Competitions
+
+<table>
+<tr>
+<td width="50%">
+
+**🏆 HUIT Data Science Competition 2025 – Finalist**
+
+**Project 1:**  
+Rice pest **classification and segmentation** using a hybrid pipeline combining  
+**YOLO (You Only Look Once) and SAM-ViT (Segment Anything Model – Vision Transformer).**
+
+<img src="./thanhTich_2025/khdl_CapKhoa_2025_1.png" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+**Project 2:**  
+Application of **Vision Transformer (ViT)** for **skin cancer classification from dermoscopic images**, contributing to computer-aided medical diagnosis.
+
+<img src="./thanhTich_2025/khdl_CapKhoa_2025_2.png" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**📊 Database Design Challenge 2025**  
+Awarded **Consolation Prize** in the Academic **Database Design Competition**, recognizing strong skills in database modeling, system design, and data architecture.
+
+<img src="./thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" width="60%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 3. Personal Academic Distinction
+
+<table>
+<tr>
+<td align="center">
+
+**🌟 Excellent Student Award – Academic Year 2024–2025**
+
+Officially recognized by the **Vice Rector of Ho Chi Minh City University of Industry and Trade (HUIT)** for outstanding academic performance and academic excellence.
+
+<img src="./thanhTich_2025/svg_2024_2025.jpg" width="60%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
