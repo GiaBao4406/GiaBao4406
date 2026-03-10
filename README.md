@@ -1,99 +1,284 @@
-<h1 align="center">Hello, I'm TRAN GIA BAO 👋</h1>
+<a id="top"></a>
 
-🎓 Year 2 IT Student at HUIT, Ho Chi Minh City | Aspiring Software Engineer </br>
-💡 Interested in Web, Mobile & AI Development </br>
-🌍 Goal: Contribute to global tech companies in a professional environment </br>
-⚡ Hobbies: Coding • AI Research • Teamwork • Knowledge Sharing • Scientific Research
-
----
-
-## 🚀 Skills
-- **Languages:** C/C++, C#, Java, Python
-- **Web:** HTML, CSS, JavaScript (learning React, Node.js)  
-- **Mobile:** Android (Java/Kotlin), Flutter (upcoming)  
-- **AI:** Researching, exploring and learning  
-- **Others:** Git, GitHub, teamwork, strong communication
-
-## 📌 Highlight Projects
-### 🔹 [My CV](https://github.com/GiaBao4406/CV)
-My current CV.
-### 🔹 [subject project](https://giabao4406.github.io/GIBOR-COFFEE-SHOP/)
-This is my university course project. My team members and I worked on this project.
-### 🔹 [Year 1 Summary Website](https://github.com/GiaBao4406/WebTongKetNam1)
-Year 1 Summary Website – presents grades and achievements in the first year of study.
-### 🔹 [OOP with C#](https://github.com/GiaBao4406/OOP-with-C-)  
-Exercises and examples for Object-Oriented Programming with C#. 
-
----
-
-## 🚀 My Tech Stack & Skills  
-
-<!-- Programming Languages -->
-<h3 align="center">Programming Languages</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" height="50" title="C/C++" /><br>★★★★☆
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" height="50" title="C#" /><br>★★★★☆
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="50" title="Java" /><br>★★★☆☆
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="50" title="Python" /><br>★★★☆☆
-    </td>
-  </tr>
-</table>
-
-<!-- Web Development -->
-<h3 align="center">Web Development</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML" /><br>★★★☆☆
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS" /><br>★★★☆☆
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript (React/Node.js Learning)" /><br>★★☆☆☆
-    </td>
-  </tr>
-</table>
-
-<!-- Mobile Development -->
-<h3 align="center">Mobile Development</h3>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" height="50" title="Android Development (Java)" /><br>★★★☆☆
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBao4406&theme=radical" height="165" style="display:inline-block; margin:10px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Tran%20Gia%20Bao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
+</p>
+
+<h1 align="center">Hello, I'm Tran Gia Bao 👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;Data+Mining+Research+Enthusiast" />
+</p>
+
+<p align="center">
+🎓 <strong>Year 2 Information Technology Student</strong> at HUIT, Ho Chi Minh City <br>
+💡 Passionate about <strong>Software Development, AI, and Data Technologies</strong> <br>
+🌍 Goal: Work in professional global tech environments and build impactful software <br>
+⚡ Interests: Coding • AI Research • Teamwork • Knowledge Sharing • Scientific Research
+</p>
+
+
+<h3 align="center">🌐 Available Languages</h3>
+
+<p align="center">
+  <a href="#english">🇺🇸 English</a> |
+  <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> |
+  <a href="#zhongwen">🇨🇳 中文</a>
 </p>
 
 ---
 
-## 📫 Contact  
+# 🚀 About Me
+
+I am a second-year Information Technology student with a strong interest in software engineering, data technologies, and artificial intelligence.
+
+I enjoy building software projects, learning modern technologies, and participating in scientific research activities. My goal is to continuously improve my technical skills and contribute to impactful technology products in the future.
+
+Currently I focus on:
+
+- Software Development
+- Data Structures & Algorithms
+- Web and Mobile Development
+- Artificial Intelligence and Data Mining Research
+
+---
+
+# 🧠 Skills
+
+## Programming Languages
 
 <p align="center">
-  <a href="mailto:g.baotran06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/gibor06">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+</p>
+
+- **C / C++** – Strong understanding of programming fundamentals  
+- **C#** – Object-Oriented Programming and application development  
+- **Java** – Used for Android development and academic projects  
+- **Python** – Used for data processing, scripting, and research  
+
+---
+
+## Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+- HTML / CSS / JavaScript  
+- Learning **React** and **Node.js**
+- Building simple web applications and UI interfaces
+
+---
+
+## Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter" />
+</p>
+
+- Android development using **Java**
+- Exploring **Kotlin**
+- Planning to learn **Flutter** for cross-platform mobile development
+
+---
+
+## Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+- Git & GitHub
+- VS Code
+- Visual Studio 2022
+- SQL Server
+- Team collaboration and project workflow
+
+---
+
+# 📌 Highlight Projects
+
+### 🔹 My CV
+Repository:  
+👉 https://github.com/GiaBao4406/CV
+
+My current professional CV including academic background, technical skills, and projects.
+
+---
+
+### 🔹 Coffee Shop Website Project
+
+Live Demo:  
+👉 https://giabao4406.github.io/GIBOR-COFFEE-SHOP/
+
+A university course project developed with my team.  
+The project focuses on designing a modern coffee shop website interface and user experience.
+
+---
+
+### 🔹 Year 1 Academic Summary Website
+
+Repository:  
+👉 https://github.com/GiaBao4406/WebTongKetNam1
+
+A personal website summarizing my first-year academic achievements, grades, and learning journey.
+
+---
+
+### 🔹 OOP with C#
+
+Repository:  
+👉 https://github.com/GiaBao4406/OOP-with-C-
+
+Exercises, examples, and practice materials related to Object-Oriented Programming using C#.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giabao4406&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=giabao4406&hide_border=true&theme=algolia" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giabao4406&theme=github_dark" alt="Top languages" />
+</p>
+
+---
+<a id="tieng-viet"></a>
+## Tiếng Việt
+
+### Giới thiệu
+
+> Tôi là sinh viên Công nghệ Thông tin có niềm đam mê với phát triển phần mềm, thuật toán và các công nghệ dữ liệu, với mong muốn xây dựng những hệ thống phần mềm hiệu quả và có khả năng mở rộng.
+
+### Về tôi
+
+- Tôi hiện là sinh viên năm 2 ngành Công nghệ Thông tin tại Trường Đại học Công Thương TP.HCM (HUIT).
+- Tôi có nền tảng học tập tốt về lập trình, cấu trúc dữ liệu, giải thuật và toán rời rạc.
+- Các ngôn ngữ lập trình chính của tôi bao gồm C/C++, C#, Java và Python.
+- Tôi thích xây dựng các dự án phần mềm, học hỏi công nghệ mới và cải thiện kỹ năng giải quyết vấn đề thông qua việc thực hành và nghiên cứu.
+- Tôi cũng đang tìm hiểu và nghiên cứu về Data Mining và Trí tuệ nhân tạo như những hướng phát triển trong tương lai.
+
+### Định hướng học tập và kỹ thuật
+
+- Phát triển các dự án phần mềm nhằm nâng cao kỹ năng lập trình và kinh nghiệm phát triển thực tế.
+- Nghiên cứu các môn cốt lõi của khoa học máy tính như giải thuật, cấu trúc dữ liệu, lập trình hướng đối tượng và cơ sở dữ liệu.
+- Tìm hiểu các công nghệ phát triển web như HTML, CSS, JavaScript và các framework hiện đại.
+- Không ngừng nâng cao kiến thức chuyên môn và tham gia các hoạt động nghiên cứu khoa học trong lĩnh vực CNTT.
+
+### Công nghệ sử dụng
+
+- **Ngôn ngữ lập trình:** C/C++, C#, Java, Python  
+- **Phát triển Web:** HTML, CSS, JavaScript (đang học React và Node.js)  
+- **Phát triển Mobile:** Android với Java và đang tìm hiểu Kotlin  
+- **Cơ sở dữ liệu:** SQL Server, MySQL  
+- **Công cụ & công nghệ:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDEA  
+- **Kiến thức khoa học máy tính:** Data Structures, Algorithms, Object-Oriented Programming  
+- **Hướng nghiên cứu:** Data Mining, Artificial Intelligence, Algorithm Optimization  
+
+### Mục tiêu nghề nghiệp
+
+Mục tiêu dài hạn của tôi là trở thành một kỹ sư phần mềm chuyên nghiệp, có khả năng thiết kế và xây dựng các hệ thống phần mềm ổn định, có khả năng mở rộng và đóng góp vào các sản phẩm công nghệ có giá trị trong môi trường làm việc quốc tế.
+
+---
+
+<a id="english"></a>
+## English
+
+### Introduction
+
+> I am an Information Technology student passionate about software development, algorithms, and data technologies, with a strong interest in building practical and scalable software systems.
+
+### About Me
+
+- I am a second-year Information Technology student currently studying at the University of Industry and Trade in Ho Chi Minh City (HUIT).
+- I have a strong academic foundation in programming, data structures, algorithms, and discrete mathematics.
+- My main programming languages include C/C++, C#, Java, and Python.
+- I enjoy building software projects, learning modern technologies, and improving my problem-solving skills through practice and research.
+- I am also exploring data mining and artificial intelligence as potential research directions.
+
+### Academic & Technical Focus
+
+- Develop software projects to strengthen programming skills and real-world development experience.
+- Study core computer science subjects such as algorithms, data structures, object-oriented programming, and databases.
+- Explore web development technologies including HTML, CSS, and JavaScript while learning modern frameworks.
+- Continuously improve technical knowledge and participate in research activities related to computer science.
+
+### Tech Stack
+
+- **Programming Languages:** C/C++, C#, Java, Python
+- **Web Development:** HTML, CSS, JavaScript (currently learning React and Node.js)
+- **Mobile Development:** Android development using Java and exploring Kotlin
+- **Database:** SQL Server, MySQL
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code, Visual Studio
+- **Computer Science:** Data Structures, Algorithms, Object-Oriented Programming
+- **Research Interests:** Data Mining, Artificial Intelligence, Algorithm Optimization
+
+### Career Goal
+
+My long-term goal is to become a professional software engineer capable of designing reliable and scalable systems, while contributing to innovative technology products in an international working environment.
+
+---
+<a id="zhongwen"></a>
+
+## 中文
+
+### 介绍
+
+> 我是一名对软件开发、算法以及数据技术充满热情的信息技术学生，希望能够构建高效且具有良好扩展性的现代软件系统。
+
+### 关于我
+
+- 我目前是胡志明市工业与贸易大学（HUIT）信息技术专业的大二学生。
+- 我在编程、数据结构、算法和离散数学等计算机基础课程方面拥有扎实的基础。
+- 我主要使用的编程语言包括 C/C++、C#、Java 和 Python。
+- 我喜欢通过实践项目来提升自己的编程能力，同时不断学习新的技术和开发工具。
+- 目前我也在探索数据挖掘（Data Mining）和人工智能（AI）作为未来可能的发展方向。
+
+### 学习与技术方向
+
+- 通过开发软件项目来提升编程能力和实际开发经验。
+- 深入学习计算机科学核心课程，例如算法、数据结构、面向对象编程以及数据库系统。
+- 学习 Web 开发技术，例如 HTML、CSS、JavaScript 以及现代前端框架。
+- 持续提升技术能力，并积极参与计算机科学相关的科研活动。
+
+### 技术栈
+
+- **编程语言：** C/C++、C#、Java、Python  
+- **Web 开发：** HTML、CSS、JavaScript（正在学习 React 和 Node.js）  
+- **移动开发：** 使用 Java 进行 Android 开发，并正在探索 Kotlin  
+- **数据库：** SQL Server、MySQL  
+- **开发工具：** Git、GitHub、Visual Studio Code、Visual Studio、IntelliJ IDEA  
+- **计算机基础：** 数据结构、算法、面向对象编程  
+- **研究兴趣：** 数据挖掘（Data Mining）、人工智能（AI）、算法优化  
+
+### 职业目标
+
+我的长期目标是成为一名专业的软件工程师，能够设计和开发稳定、可扩展的软件系统，并在国际化的技术环境中参与和贡献有价值的技术产品。
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:g.baotran06@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/gibor06">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">⭐️ THANKS FOR WATCHING ⭐️</p>
+<p align="center">
+⭐️ Thanks for visiting my GitHub profile ⭐️
+</p>
+
+<p align="center">
+<a href="#top">Back to top</a>
+</p>
