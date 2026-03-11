@@ -1,4 +1,10 @@
 <a id="top"></a>
+<div align="right">
+  
+   ![Profile Views](https://komarev.com/ghpvc/?username=GiaBao4406&color=58A6FF&style=flat-square&label=Profile+Views)
+   
+</div>
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Tran%20Gia%20Bao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
@@ -7,6 +13,7 @@
 <h1 align="center">Hello, I'm Tran Gia Bao 👋</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;Data+Mining+Research+Enthusiast" />
+
 </p>
 
 <p align="center">
@@ -96,9 +103,13 @@ Currently I focus on:
 
 ---
 ## 🏆 Academic Achievements & Honors
-
+<details>
+<summary>
+  
 ### 🔬 1. Scientific Research
 
+</summary>
+  
 <table>
 <tr>
 <td width="50%">
@@ -136,9 +147,16 @@ Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
 </tr>
 </table>
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 ### 🧠 2. Academic & Professional Competitions
+
+</summary>
 
 <table>
 <tr>
@@ -176,9 +194,16 @@ Awarded **Consolation Prize** in the Academic **Database Design Competition**, r
 </tr>
 </table>
 
+</details>
+
 ---
 
+<details>
+<summary>
+  
 ### 🎓 3. Personal Academic Distinction
+
+</summary>
 
 <table>
 <tr>
@@ -194,9 +219,16 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 </tr>
 </table>
 
+</details>
+
 ---
 
+<details>
+<summary>
+
 # 📌 Highlight Projects
+
+</summary>
 
 ### 🔹 My CV
 Repository:  
@@ -232,6 +264,8 @@ Repository:
 
 Exercises, examples, and practice materials related to Object-Oriented Programming using C#.
 
+</details>
+
 ---
 
 # 📊 GitHub Stats
@@ -239,6 +273,7 @@ Exercises, examples, and practice materials related to Object-Oriented Programmi
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giabao4406&theme=github_dark" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=giabao4406&hide_border=true&theme=algolia" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaBao4406&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
@@ -247,7 +282,13 @@ Exercises, examples, and practice materials related to Object-Oriented Programmi
 
 ---
 <a id="tieng-viet"></a>
+
+<details>
+<summary>
+  
 ## Tiếng Việt
+
+</summary>
 
 ### Giới thiệu
 
@@ -282,10 +323,19 @@ Exercises, examples, and practice materials related to Object-Oriented Programmi
 
 Mục tiêu dài hạn của tôi là trở thành một kỹ sư phần mềm chuyên nghiệp, có khả năng thiết kế và xây dựng các hệ thống phần mềm ổn định, có khả năng mở rộng và đóng góp vào các sản phẩm công nghệ có giá trị trong môi trường làm việc quốc tế.
 
+</details>
+
 ---
 
 <a id="english"></a>
+
+<details>
+<summary>
+
+
 ## English
+
+</summary>
 
 ### Introduction
 
@@ -320,10 +370,19 @@ Mục tiêu dài hạn của tôi là trở thành một kỹ sư phần mềm c
 
 My long-term goal is to become a professional software engineer capable of designing reliable and scalable systems, while contributing to innovative technology products in an international working environment.
 
+</details>
+
 ---
+
 <a id="zhongwen"></a>
 
+<details>
+<summary>
+
 ## 中文
+
+</summary>
+
 
 ### 介绍
 
@@ -358,6 +417,8 @@ My long-term goal is to become a professional software engineer capable of desig
 
 我的长期目标是成为一名专业的软件工程师，能够设计和开发稳定、可扩展的软件系统，并在国际化的技术环境中参与和贡献有价值的技术产品。
 
+</details>
+
 ---
 
 # 📫 Contact
@@ -374,12 +435,8 @@ My long-term goal is to become a professional software engineer capable of desig
 
 </p>
 
+
+
 ---
 
-<p align="center">
-⭐️ Thanks for visiting my GitHub profile ⭐️
-</p>
-
-<p align="center">
-<a href="#top">Back to top</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=120&section=footer&text=⭐️%20Thanks%20for%20visiting%20my%20GitHub%20profile%20⭐️&fontSize=25&fontAlignY=60&fontColor=ffffff" width="100%"/>
