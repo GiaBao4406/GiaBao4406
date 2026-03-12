@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="right">
   
-   ![Profile Views](https://komarev.com/ghpvc/?username=GiaBao4406&color=58A6FF&style=flat-square&label=Profile+Views)
+   ![Profile Views](https://komarev.com/ghpvc/?username=gibor06&color=58A6FF&style=flat-square&label=Profile+Views)
    
 </div>
  
@@ -232,7 +232,7 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 
 ### 🔹 My CV
 Repository:  
-👉 https://github.com/GiaBao4406/CV
+👉 https://github.com/gibor06/CV
 
 My current professional CV including academic background, technical skills, and projects.
 
@@ -241,7 +241,7 @@ My current professional CV including academic background, technical skills, and 
 ### 🔹 Coffee Shop Website Project
 
 Live Demo:  
-👉 https://giabao4406.github.io/GIBOR-COFFEE-SHOP/
+👉 https://gibor06.github.io/GIBOR-COFFEE-SHOP/
 
 A university course project developed with my team.  
 The project focuses on designing a modern coffee shop website interface and user experience.
@@ -251,7 +251,7 @@ The project focuses on designing a modern coffee shop website interface and user
 ### 🔹 Year 1 Academic Summary Website
 
 Repository:  
-👉 https://github.com/GiaBao4406/WebTongKetNam1
+👉 https://github.com/gibor06/WebTongKetNam1
 
 A personal website summarizing my first-year academic achievements, grades, and learning journey.
 
@@ -260,7 +260,7 @@ A personal website summarizing my first-year academic achievements, grades, and 
 ### 🔹 OOP with C#
 
 Repository:  
-👉 https://github.com/GiaBao4406/OOP-with-C-
+👉 https://github.com/gibor06/OOP-with-C-
 
 Exercises, examples, and practice materials related to Object-Oriented Programming using C#.
 
@@ -271,13 +271,13 @@ Exercises, examples, and practice materials related to Object-Oriented Programmi
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giabao4406&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=giabao4406&hide_border=true&theme=algolia" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaBao4406&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gibor06&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=gibor06&hide_border=true&theme=algolia" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gibor06&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giabao4406&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gibor06&theme=github_dark" alt="Top languages" />
 </p>
 
 ---
@@ -426,11 +426,15 @@ My long-term goal is to become a professional software engineer capable of desig
 <p align="center">
 
 <a href="mailto:g.baotran06@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 <a href="https://www.facebook.com/gibor06">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+
+<a href="https://www.instagram.com/gibor06/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
 </p>
