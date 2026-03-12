@@ -223,48 +223,20 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 
 ---
 
-<details>
-<summary>
-
 # 📌 Highlight Projects
 
-</summary>
 
-### 🔹 My CV
-Repository:  
-👉 https://github.com/gibor06/CV
+### [Professional CV](https://gibor06.github.io/gibor06/CV)
+A structured repository presenting my academic background, technical skills, achievements, and project experience.
 
-My current professional CV including academic background, technical skills, and projects.
+### [Coffee Shop Website](https://gibor06.github.io/GIBOR-COFFEE-SHOP/)
+A university team project focused on designing a modern coffee shop website with attention to UI/UX and front-end implementation.
 
----
+### [Year 1 Academic Summary Website](https://gibor06.github.io/WebTongKetNam1/)
+A personal website documenting my first-year academic journey, achievements, and learning progress.
 
-### 🔹 Coffee Shop Website Project
-
-Live Demo:  
-👉 https://gibor06.github.io/GIBOR-COFFEE-SHOP/
-
-A university course project developed with my team.  
-The project focuses on designing a modern coffee shop website interface and user experience.
-
----
-
-### 🔹 Year 1 Academic Summary Website
-
-Repository:  
-👉 https://github.com/gibor06/WebTongKetNam1
-
-A personal website summarizing my first-year academic achievements, grades, and learning journey.
-
----
-
-### 🔹 OOP with C#
-
-Repository:  
-👉 https://github.com/gibor06/OOP-with-C-
-
-Exercises, examples, and practice materials related to Object-Oriented Programming using C#.
-
-</details>
+### [OOP with C#](https://github.com/gibor06/OOP-with-C-)
+A collection of object-oriented programming exercises, examples, and practice materials using C#.
 
 ---
 
