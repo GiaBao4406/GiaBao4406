@@ -235,8 +235,8 @@ A university team project focused on designing a modern coffee shop website with
 ### [Year 1 Academic Summary Website](https://gibor06.github.io/WebTongKetNam1/)
 A personal website documenting my first-year academic journey, achievements, and learning progress.
 
-### [OOP with C#](https://github.com/gibor06/OOP-with-C-)
-A collection of object-oriented programming exercises, examples, and practice materials using C#.
+### [OOP Basic Leaning](https://github.com/gibor06/Basic-OPP)
+A collection of object-oriented programming exercises, examples, and practice materials using C/C++.
 
 ---
 
