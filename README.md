@@ -400,7 +400,7 @@ My long-term goal is to become a professional software engineer capable of desig
 
 <p align="center">
 
-<a href="mailto:g.baotran06@gmail.com">
+<a href="mailto:gibor06.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
