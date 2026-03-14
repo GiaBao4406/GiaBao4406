@@ -226,9 +226,6 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 # 📌 Highlight Projects
 
 
-### [Professional CV](https://gibor06.github.io/MyCV2025) 
-A structured repository presenting my academic background, technical skills, achievements, and project experience.
-
 ### [Coffee Shop Website](https://gibor06.github.io/GIBOR-COFFEE-SHOP/)
 A university team project focused on designing a modern coffee shop website with attention to UI/UX and front-end implementation.
 
