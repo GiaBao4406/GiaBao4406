@@ -82,13 +82,8 @@ Currently I focus on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
-- Git & GitHub
-- VS Code
-- Visual Studio 2022
-- SQL Server
-- Team collaboration and project workflow
-
 ---
+
 ## 🏆 Academic Achievements & Honors
 <details>
 <summary>
