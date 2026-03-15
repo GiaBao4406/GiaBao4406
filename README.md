@@ -55,12 +55,7 @@ Currently I focus on:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
-</p>
-
-- **C / C++** – Strong understanding of programming fundamentals  
-- **C#** – Object-Oriented Programming and application development  
-- **Java** – Used for Android development and academic projects  
-- **Python** – Used for data processing, scripting, and research  
+</p>  
 
 ---
 
