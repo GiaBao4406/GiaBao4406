@@ -73,10 +73,6 @@ Currently I focus on:
 <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter" />
 </p>
 
-- Android development using **Java**
-- Exploring **Kotlin**
-- Planning to learn **Flutter** for cross-platform mobile development
-
 ---
 
 ## Tools & Technologies
