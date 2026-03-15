@@ -409,6 +409,10 @@ My long-term goal is to become a professional software engineer capable of desig
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
+</br>
+
+Info: <a href= "https://linktr.ee/gibor06"> gibor06 </a>
+
 </p>
 
 
