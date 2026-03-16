@@ -51,35 +51,25 @@ Currently I focus on:
 
 # 🧠 Skills
 
-## Programming Languages
-
+### Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
-</p>  
-
----
-
-## Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
 </p>
 
----
-
-## Mobile Development
-
+### Web Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
----
-
-## Tools & Technologies
-
+### Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter" />
+</p>
+
+### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
 ---
@@ -130,8 +120,6 @@ Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
 </table>
 
 </details>
-
----
 
 <details>
 <summary>
@@ -206,14 +194,21 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 # 📌 Highlight Projects
 
 
-### [Coffee Shop Website](https://gibor06.github.io/GIBOR-COFFEE-SHOP/)
-A university team project focused on designing a modern coffee shop website with attention to UI/UX and front-end implementation.
+### 🧳 [Tour Management](https://github.com/gibor06/Tour-management)
+**Tech:** Python  
+A tour management project developed in Python, focused on organizing and managing tour-related information through a structured and practical software workflow. This project reflects my ability to build management-oriented applications and apply programming fundamentals to real-world business scenarios.
 
-### [Year 1 Academic Summary Website](https://gibor06.github.io/WebTongKetNam1/)
-A personal website documenting my first-year academic journey, achievements, and learning progress.
+### ☕ [GIBOR Coffee Shop](https://github.com/gibor06/GIBOR-COFFEE-SHOP)
+**Tech:** HTML, CSS, JavaScript  
+A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
-### [OOP Basic Leaning](https://github.com/gibor06/Basic-OPP)
-A collection of object-oriented programming exercises, examples, and practice materials using C/C++.
+### 🚗 [Parking Management System](https://github.com/gibor06/QuanLyBaiXe-DACK)
+**Tech:** C/C++  
+A parking lot management application built with C/C++, applying the **Stack** data structure to manage vehicle operations and system workflows. This project demonstrates my understanding of data structures, problem-solving, and algorithmic thinking in software development.
+
+### 🌐 [Year 1 Academic Summary Website](https://github.com/gibor06/WebTongKetNam1)
+**Tech:** HTML, CSS, JavaScript  
+A personal website summarizing my first-year university journey, including academic progress, achievements, and important milestones. This project highlights my ability to build portfolio-style websites with clear content organization and visual presentation.
 
 ---
 
@@ -391,12 +386,9 @@ My long-term goal is to become a professional software engineer capable of desig
 
 </br>
 
-Info: <a href= "https://linktr.ee/gibor06"> gibor06 </a>
+More Infomation: <a href= "https://linktr.ee/gibor06"> gibor06 </a>
 
 </p>
 
-
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=120&section=footer&text=⭐️%20Thanks%20for%20visiting%20my%20GitHub%20profile%20⭐️&fontSize=25&fontAlignY=60&fontColor=ffffff" width="100%"/>
