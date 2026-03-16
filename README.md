@@ -178,8 +178,6 @@ Awarded **Consolation Prize** in the Academic **Database Design Competition**, r
 
 </details>
 
----
-
 <details>
 <summary>
   
