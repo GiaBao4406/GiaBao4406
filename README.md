@@ -373,20 +373,20 @@ My long-term goal is to become a professional software engineer capable of desig
 <p align="center">
 
 <a href="mailto:gibor06.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gibor06" title = "gibor06"/>
 </a>
 
 <a href="https://www.facebook.com/gibor06">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="gibor06" title = "gibor06"/>
 </a>
 
 <a href="https://www.instagram.com/gibor06/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="gibor06" title = "gibor06"/>
 </a>
 
 </br>
 
-More Infomation: <a href= "https://linktr.ee/gibor06"> gibor06 </a>
+More Infomation: <a href= "https://linktr.ee/gibor06" title = "gibor06"> gibor06 </a>
 
 </p>
 
