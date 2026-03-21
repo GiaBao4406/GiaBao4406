@@ -206,7 +206,7 @@ A team project for developing a coffee shop management and brand website. The pr
 **Tech:** C/C++  
 A parking lot management application built with C/C++, applying the **Stack** data structure to manage vehicle operations and system workflows. This project demonstrates my understanding of data structures, problem-solving, and algorithmic thinking in software development.
 
-### 🌐 [Year 1 Academic Summary Website](https://github.com/gibor06/WebTongKetNam1)
+### 🌐 [Year 1 Academic Summary Website](https://gibor06.github.io/WebTongKetNam1/)
 **Tech:** HTML, CSS, JavaScript  
 A personal website summarizing my first-year university journey, including academic progress, achievements, and important milestones. This project highlights my ability to build portfolio-style websites with clear content organization and visual presentation.
 
