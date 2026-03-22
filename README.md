@@ -198,7 +198,7 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 **Tech:** Python  
 A tour management project developed in Python, focused on organizing and managing tour-related information through a structured and practical software workflow. This project reflects my ability to build management-oriented applications and apply programming fundamentals to real-world business scenarios.
 
-### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/WebTongKetNam1/)
+### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/GIBOR-COFFEE-SHOP/)
 **Tech:** HTML, CSS, JavaScript  
 A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
