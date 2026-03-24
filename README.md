@@ -386,7 +386,7 @@ My long-term goal is to become a professional software engineer capable of desig
 
 </br>
 
-More Infomation: <a href= "https://linktr.ee/gibor06" title = "gibor06"> gibor06 </a>
+More Infomation: <a href= "https://linktr.ee/gibor06" title = "gibor06"> `gibor06` </a>
 
 </p>
 
