@@ -217,7 +217,7 @@ A personal website summarizing my first-year university journey, including acade
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gibor06&theme=github_dark" alt="GitHub stats" />
 
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=gibor06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com?user=Peo051&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a3a5c&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&v=9" height="170"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gibor06&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%"/>
   
