@@ -193,8 +193,6 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 
 # 📌 Highlight Projects
 
-# 📌 Highlight Projects
-
 ### 💼 [Portfolio Website](https://github.com/gibor06/portfolio)
 **Tech:** HTML, CSS, JavaScript  
 A personal portfolio website built to showcase my profile, technical skills, academic achievements, case studies, and featured projects in a more professional and recruiter-friendly format.
