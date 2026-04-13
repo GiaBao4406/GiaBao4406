@@ -193,7 +193,7 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 
 # 📌 Highlight Projects
 
-### 💼 [Portfolio Website](https://github.com/gibor06/portfolio)
+### 💼 [Portfolio Website](https://gibor06.github.io/portfolio/)
 **Tech:** HTML, CSS, JavaScript  
 A personal portfolio website built to showcase my profile, technical skills, academic achievements, case studies, and featured projects in a more professional and recruiter-friendly format.
 
@@ -201,7 +201,7 @@ A personal portfolio website built to showcase my profile, technical skills, aca
 **Tech:** HTML, CSS, JavaScript  
 A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
-### 🍎 [Gibor Fruit Shop](https://github.com/gibor06/Gibor-Fruit-Shop)
+### 🍎 [Gibor Fruit Shop](https://gibor06.github.io/Gibor-Fruit-Shop)
 **Tech:** HTML, CSS, JavaScript  
 A front-end storefront website for premium imported fruits and luxury fruit gift baskets. The project focuses on product presentation, responsive user experience, fast category filtering, basic cart interaction, and customer inquiry collection through contact forms.
 
