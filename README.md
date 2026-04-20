@@ -197,7 +197,7 @@ Officially recognized by the **Vice Rector of Ho Chi Minh City University of Ind
 **Tech:** HTML, CSS, JavaScript  
 A personal portfolio website built to showcase my profile, technical skills, academic achievements, case studies, and featured projects in a more professional and recruiter-friendly format.
 
-### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/GIBOR-COFFEE-SHOP/)
+### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/)
 **Tech:** HTML, CSS, JavaScript  
 A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
