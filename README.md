@@ -74,35 +74,57 @@ Currently I focus on:
 
 ---
 
-## 🏆 Academic Achievements & Honors
+## 🏆 Academic Achievements, Honors & Certificates
+
+> A complete overview of my academic achievements, research recognitions, competition highlights, and professional certifications at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
+
 <details>
 <summary>
-  
+
 ### 🔬 1. Scientific Research
 
 </summary>
-  
+
 <table>
 <tr>
 <td width="50%">
 
-**🥉 Third Prize – Faculty-Level Scientific Research (2024–2025)**  
-Research Project:
+**🥈 Second Prize – Faculty-Level Scientific Research (2024–2025)**  
+**Research Topic:**  
+*Research on the EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.*
 
-**“Development of the Multi Aura Social Network with PhoBERT-based Natural Language Processing for Detecting and Preventing Inappropriate Online Comments.”**
-
-<img src="./thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="100%"/>
+<img src="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%"/>
 
 </td>
 
 <td width="50%">
 
-**🥈 Second Prize – Faculty-Level Scientific Research (2024–2025)**  
-Research Project:
+**🥉 Third Prize – Faculty-Level Scientific Research (2024–2025)**  
+**Research Topic:**  
+*Development of the Multi Aura Social Network with PhoBERT-based Natural Language Processing for Detecting and Preventing Inappropriate Online Comments.*
 
-**“Research on the EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.”**
+<img src="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="100%"/>
 
-<img src="./thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**🏅 Consolation Prize – Faculty-Level Student Scientific Research Competition (2025–2026)**  
+**Research Topic:**  
+*Tối ưu thời gian trong khai thác tập mục hữu ích cao chéo trên cơ sở dữ liệu giao dịch động có lợi ích âm và dương.*
+
+<img src="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+**🎖 Final Round Participant – Faculty-Level Student Scientific Research Competition (2025–2026)**  
+Recognized for reaching the final round with the same research topic on high-utility itemset mining over dynamic transaction databases with negative and positive utility.
+
+<img src="./img/thanhTich_2026/nckh_CapKhoa_2026.jpg" width="100%"/>
 
 </td>
 </tr>
@@ -113,7 +135,7 @@ Research Project:
 **🏅 Consolation Prize – University-Level Student Scientific Research Competition (2024–2025)**  
 Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
 
-<img src="./thanhTich_2025/nckh_CapTruong_2025.jpg" width="60%"/>
+<img src="./img/thanhTich_2025/nckh_CapTruong_2025.jpg" width="60%"/>
 
 </td>
 </tr>
@@ -132,22 +154,21 @@ Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
 <tr>
 <td width="50%">
 
-**🏆 HUIT Data Science Competition 2025 – Finalist**
+**🏆 HUIT Data Science Competition 2025 – Finalist**  
 
 **Project 1:**  
-Rice pest **classification and segmentation** using a hybrid pipeline combining  
-**YOLO (You Only Look Once) and SAM-ViT (Segment Anything Model – Vision Transformer).**
+Developed a rice pest **classification and segmentation** system using a hybrid pipeline combining **YOLO** and **SAM-ViT (Segment Anything Model – Vision Transformer)**.
 
-<img src="./thanhTich_2025/khdl_CapKhoa_2025_1.png" width="100%"/>
+<img src="./img/thanhTich_2025/khdl_CapKhoa_2025_1.png" width="100%"/>
 
 </td>
 
 <td width="50%">
 
 **Project 2:**  
-Application of **Vision Transformer (ViT)** for **skin cancer classification from dermoscopic images**, contributing to computer-aided medical diagnosis.
+Applied **Vision Transformer (ViT)** for **skin cancer classification from dermoscopic images**, contributing to computer-aided medical diagnosis.
 
-<img src="./thanhTich_2025/khdl_CapKhoa_2025_2.png" width="100%"/>
+<img src="./img/thanhTich_2025/khdl_CapKhoa_2025_2.png" width="100%"/>
 
 </td>
 </tr>
@@ -155,10 +176,10 @@ Application of **Vision Transformer (ViT)** for **skin cancer classification fro
 <tr>
 <td colspan="2" align="center">
 
-**📊 Database Design Challenge 2025**  
-Awarded **Consolation Prize** in the Academic **Database Design Competition**, recognizing strong skills in database modeling, system design, and data architecture.
+**📊 Database Design Challenge 2025 – Consolation Prize**  
+Recognized for strong capabilities in **database modeling, system design, and data architecture**.
 
-<img src="./thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" width="60%"/>
+<img src="./img/thanhTich_2025/hocthuatDB_CapKhoa_2025.jpg" width="60%"/>
 
 </td>
 </tr>
@@ -168,7 +189,7 @@ Awarded **Consolation Prize** in the Academic **Database Design Competition**, r
 
 <details>
 <summary>
-  
+
 ### 🎓 3. Personal Academic Distinction
 
 </summary>
@@ -177,15 +198,105 @@ Awarded **Consolation Prize** in the Academic **Database Design Competition**, r
 <tr>
 <td align="center">
 
-**🌟 Excellent Student Award – Academic Year 2024–2025**
+**🌟 Excellent Student Award – Academic Year 2024–2025**  
+Officially awarded by the **Vice Rector of Ho Chi Minh City University of Industry and Trade (HUIT)** in recognition of outstanding academic performance and academic excellence.
 
-Officially recognized by the **Vice Rector of Ho Chi Minh City University of Industry and Trade (HUIT)** for outstanding academic performance and academic excellence.
-
-<img src="./thanhTich_2025/svg_2024_2025.jpg" width="60%"/>
+<img src="./img/thanhTich_2025/svg_2024_2025.jpg" width="60%"/>
 
 </td>
 </tr>
 </table>
+
+</details>
+
+<details>
+<summary>
+
+### 📜 4. Certificates & Professional Credentials
+
+</summary>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🤖 Google AI Professional Certificate**  
+Completed the **Google AI Professional Certificate** on Coursera, covering 7 courses:  
+**AI Fundamentals**, **AI for Brainstorming and Planning**, **AI for Research and Insights**, **AI for Writing and Communicating**, **AI for Content Creation**, **AI for Data Analysis**, and **AI for App Building**.
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Google_AI.png" width="100%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+**✨ Gemini Certified Faculty**  
+Issued by **Google for Education**, recognizing knowledge, skills, and applied competency in using Google AI in higher education.
+
+<img src="./img/ChungChiGG/GEMENI/CC_Gemini_Faculty.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>View Google AI course badges</strong></summary>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**AI Fundamentals**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Fundamentals.png" width="100%"/>
+
+</td>
+
+<td width="33%" align="center">
+
+**AI for Brainstorming and Planning**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Brainstorming%20and%20Planning.png" width="100%"/>
+
+</td>
+
+<td width="33%" align="center">
+
+**AI for Research and Insights**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Research_and_Insights.png" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+
+**AI for Writing and Communicating**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Writing_and_Communicating.png" width="100%"/>
+
+</td>
+
+<td width="33%" align="center">
+
+**AI for Data Analysis**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/Data_Analysis.png" width="100%"/>
+
+</td>
+
+<td width="33%" align="center">
+
+**AI for App Building**
+
+<img src="./img/ChungChiGG/GOOGLE%20AI/App_Building.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</details>
 
 </details>
 
