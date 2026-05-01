@@ -7,7 +7,7 @@
  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Tran%20Gia%20Bao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Trần%20Gia%20Bảo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 
 <h1 align="center">Hello, I'm Tran Gia Bao 👋</h1>
