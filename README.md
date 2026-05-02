@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I%27m+Trần+Gia+Bảo"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I%27m+Tran+Gia+Bao"
     alt="Typing SVG"
   />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" />
