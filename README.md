@@ -1,10 +1,10 @@
 <a id="top"></a>
+
 <div align="right">
   
    ![Profile Views](https://komarev.com/ghpvc/?username=gibor06&color=58A6FF&style=flat-square&label=Profile+Views)
    
 </div>
- 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Trần%20Gia%20Bảo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
@@ -21,13 +21,21 @@
 
 </p>
 
-<p align="center">
+<img 
+  align="right" 
+  src="img/Nen/gibor.png" 
+  width="350" 
+  alt="Coding animation"
+/>
+
+<p align="left">
 🎓 <strong>Year 2 Information Technology Student</strong> at HUIT, Ho Chi Minh City <br>
 💡 Passionate about <strong>Software Development, AI, and Data Technologies</strong> <br>
 🌍 Goal: Work in professional global tech environments and build impactful software <br>
 ⚡ Interests: Coding • AI Research • Teamwork • Knowledge Sharing • Scientific Research
 </p>
 
+<br clear="right"/>
 
 <h3 align="center">🌐 Available Languages</h3>
 
@@ -41,6 +49,13 @@
 
 # 🚀 About Me
 
+<img 
+  align="right" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFrdjY0c3F6eXBkN3k1MmVnbnlxaDN3Y2J1Nmk1NmR6MHM4cjlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" 
+  width="350" 
+  alt="Coding animation"
+/>
+
 I am a second-year Information Technology student with a strong interest in software engineering, data technologies, and artificial intelligence.
 
 I enjoy building software projects, learning modern technologies, and participating in scientific research activities. My goal is to continuously improve my technical skills and contribute to impactful technology products in the future.
@@ -52,34 +67,56 @@ Currently I focus on:
 - Web and Mobile Development
 - Artificial Intelligence and Data Mining Research
 
+<br clear="right"/>
+
 ---
 
 # 🧠 Skills
 
+<img 
+  align="right" 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0YmQ2NmxzOGt2NXA2aTJybHBqYmdicTAyaGJseDYxa2EyZWF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" 
+  width="400" 
+  alt="Coding animation"
+/>
+
 ### Programming Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
 </p>
 
 ### Web Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
 ### Mobile Development
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter" />
 </p>
 
 ### Tools & Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
+<br clear="right"/>
+
 ---
 
 ## 🏆 Academic Achievements, Honors & Certificates
+
+<img 
+  align="right" 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqZzVwc214MDNramU2Z2M0a3R3cHFoemxqdmN3MHRscDg5NG9wNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U84Eluei7NlAqTqqY7/giphy.gif" 
+  width="350" 
+  alt="Coding animation"
+/>
 
 > A complete overview of my academic achievements, research recognitions, competition highlights, and professional certifications at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
@@ -96,7 +133,7 @@ Currently I focus on:
 
 **🥈 Second Prize – Faculty-Level Scientific Research (2024–2025)**  
 **Research Topic:**  
-*Research on the EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products.*
+_Research on the EMHUN High-Utility Itemset Mining Algorithm and Its Application in an E-commerce Website for Electronic Products._
 
 <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_1.jpg" width="100%"/>
 
@@ -106,7 +143,7 @@ Currently I focus on:
 
 **🥉 Third Prize – Faculty-Level Scientific Research (2024–2025)**  
 **Research Topic:**  
-*Development of the Multi Aura Social Network with PhoBERT-based Natural Language Processing for Detecting and Preventing Inappropriate Online Comments.*
+_Development of the Multi Aura Social Network with PhoBERT-based Natural Language Processing for Detecting and Preventing Inappropriate Online Comments._
 
 <img src="./img/thanhTich_2025/nckh_CapKhoa_2025_2.jpg" width="100%"/>
 
@@ -118,7 +155,7 @@ Currently I focus on:
 
 **🏅 Consolation Prize – Faculty-Level Student Scientific Research Competition (2025–2026)**  
 **Research Topic:**  
-*Tối ưu thời gian trong khai thác tập mục hữu ích cao chéo trên cơ sở dữ liệu giao dịch động có lợi ích âm và dương.*
+_Tối ưu thời gian trong khai thác tập mục hữu ích cao chéo trên cơ sở dữ liệu giao dịch động có lợi ích âm và dương._
 
 <img src="./img/thanhTich_2026/nckh_CapKhoa_2026_1.png" width="100%"/>
 
@@ -159,7 +196,7 @@ Organized by **Ho Chi Minh City University of Industry and Trade (HUIT)**
 <tr>
 <td width="50%">
 
-**🏆 HUIT Data Science Competition 2025 – Finalist**  
+**🏆 HUIT Data Science Competition 2025 – Finalist**
 
 **Project 1:**  
 Developed a rice pest **classification and segmentation** system using a hybrid pipeline combining **YOLO** and **SAM-ViT (Segment Anything Model – Vision Transformer)**.
@@ -309,15 +346,25 @@ Issued by **Google for Education**, recognizing knowledge, skills, and applied c
 
 # 📌 Highlight Projects
 
+<img 
+  align="right" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsZzZwOWZhYnV5eG4xaDY4MzJ6aHFpY29lM3Z6NDRmMDd2N2RvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkLnexguD7I4KkpZE8/giphy.gif" 
+  height="350" 
+  alt="Coding animation"
+/>
+
 ### 💼 [Portfolio Website](https://gibor06.github.io/portfolio/)
+
 **Tech:** HTML, CSS, JavaScript  
 A personal portfolio website built to showcase my profile, technical skills, academic achievements, case studies, and featured projects in a more professional and recruiter-friendly format.
 
 ### ☕ [GIBOR Coffee Shop](https://gibor06.github.io/GIBOR-COFFEE-SHOP-WEBSITE/)
+
 **Tech:** HTML, CSS, JavaScript  
 A team project for developing a coffee shop management and brand website. The project focuses on creating a modern interface, improving user experience, and presenting a complete front-end product for a coffee shop business model.
 
 ### 🍎 [GIBOR Fruit Shop](https://gibor06.github.io/GIBOR-FRUIT-SHOP)
+
 **Tech:** HTML, CSS, JavaScript  
 A front-end storefront website for premium imported fruits and luxury fruit gift baskets. The project focuses on product presentation, responsive user experience, fast category filtering, basic cart interaction, and customer inquiry collection through contact forms.
 
@@ -339,6 +386,7 @@ A front-end storefront website for premium imported fruits and luxury fruit gift
 </p>
 
 ---
+
 <a id="tieng-viet"></a>
 
 <details>
@@ -369,13 +417,13 @@ A front-end storefront website for premium imported fruits and luxury fruit gift
 
 ### Công nghệ sử dụng
 
-- **Ngôn ngữ lập trình:** C/C++, C#, Java, Python  
-- **Phát triển Web:** HTML, CSS, JavaScript (đang học React và Node.js)  
-- **Phát triển Mobile:** Android với Java và đang tìm hiểu Kotlin  
-- **Cơ sở dữ liệu:** SQL Server, MySQL  
-- **Công cụ & công nghệ:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDEA  
-- **Kiến thức khoa học máy tính:** Data Structures, Algorithms, Object-Oriented Programming  
-- **Hướng nghiên cứu:** Data Mining, Artificial Intelligence, Algorithm Optimization  
+- **Ngôn ngữ lập trình:** C/C++, C#, Java, Python
+- **Phát triển Web:** HTML, CSS, JavaScript (đang học React và Node.js)
+- **Phát triển Mobile:** Android với Java và đang tìm hiểu Kotlin
+- **Cơ sở dữ liệu:** SQL Server, MySQL
+- **Công cụ & công nghệ:** Git, GitHub, Visual Studio Code, Visual Studio, IntelliJ IDEA
+- **Kiến thức khoa học máy tính:** Data Structures, Algorithms, Object-Oriented Programming
+- **Hướng nghiên cứu:** Data Mining, Artificial Intelligence, Algorithm Optimization
 
 ### Mục tiêu nghề nghiệp
 
@@ -389,7 +437,6 @@ Mục tiêu dài hạn của tôi là trở thành một kỹ sư phần mềm c
 
 <details>
 <summary>
-
 
 ## English
 
@@ -441,7 +488,6 @@ My long-term goal is to become a professional software engineer capable of desig
 
 </summary>
 
-
 ### 介绍
 
 > 我是一名对软件开发、算法以及数据技术充满热情的信息技术学生，希望能够构建高效且具有良好扩展性的现代软件系统。
@@ -463,13 +509,13 @@ My long-term goal is to become a professional software engineer capable of desig
 
 ### 技术栈
 
-- **编程语言：** C/C++、C#、Java、Python  
-- **Web 开发：** HTML、CSS、JavaScript（正在学习 React 和 Node.js）  
-- **移动开发：** 使用 Java 进行 Android 开发，并正在探索 Kotlin  
-- **数据库：** SQL Server、MySQL  
-- **开发工具：** Git、GitHub、Visual Studio Code、Visual Studio、IntelliJ IDEA  
-- **计算机基础：** 数据结构、算法、面向对象编程  
-- **研究兴趣：** 数据挖掘（Data Mining）、人工智能（AI）、算法优化  
+- **编程语言：** C/C++、C#、Java、Python
+- **Web 开发：** HTML、CSS、JavaScript（正在学习 React 和 Node.js）
+- **移动开发：** 使用 Java 进行 Android 开发，并正在探索 Kotlin
+- **数据库：** SQL Server、MySQL
+- **开发工具：** Git、GitHub、Visual Studio Code、Visual Studio、IntelliJ IDEA
+- **计算机基础：** 数据结构、算法、面向对象编程
+- **研究兴趣：** 数据挖掘（Data Mining）、人工智能（AI）、算法优化
 
 ### 职业目标
 
@@ -480,6 +526,13 @@ My long-term goal is to become a professional software engineer capable of desig
 ---
 
 # 📫 Contact
+
+<img 
+  align="right" 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR2bzFwbDBpcTFsejZidGM4eXh4NjVyOXQwMzdwYm5rbXJ5aGppbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyJPNKBskIDWR3Md8K/giphy.gif" 
+  width="250" 
+  alt="Coding animation"
+/>
 
 <p align="center">
 
@@ -500,6 +553,5 @@ My long-term goal is to become a professional software engineer capable of desig
 More Infomation: <a href= "https://linktr.ee/gibor06" title = "gibor06"> `gibor06` </a>
 
 </p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a3a5c,100:0d1117&height=120&section=footer&text=⭐️%20Thanks%20for%20visiting%20my%20GitHub%20profile%20⭐️&fontSize=25&fontAlignY=60&fontColor=ffffff" width="100%"/>
