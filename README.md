@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hi%2C+I%27m+Tran+Gia+Bao"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hello%2C+I%27m+Tran+Gia+Bao"
     alt="Typing SVG"
   />
 </p>
