@@ -11,11 +11,9 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=450&lines=Hello%2C+I%27m+Tran+Gia+Bao"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&section=header&text=Hello,%20I'm%20Tran%20Gia%20Bao&fontSize=38&fontColor=60A5FA&animation=fadeIn" />
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;Data+Mining+Research+Enthusiast" />
 
