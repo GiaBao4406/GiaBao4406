@@ -7,17 +7,17 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=220&section=header&text=Trần%20Gia%20Bảo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,100:2563EB&height=220&section=header&text=Trần%20Gia%20Bảo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hello%2C+I%27m+Tran+Gia+Bao"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=60A5FA&center=true&vCenter=true&width=450&lines=Hello%2C+I%27m+Tran+Gia+Bao"
     alt="Typing SVG"
   />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;Data+Mining+Research+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=800&lines=Information+Technology+Student;Software+Developer;Data+Mining+Research+Enthusiast" />
 
 </p>
 
@@ -37,7 +37,9 @@
 
 <br clear="right"/>
 
-<h3 align="center">🌐 Available Languages</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=%F0%9F%8C%90%20Available%20Languages&fontSize=24&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <p align="center">
   <a href="#tieng-viet">🇻🇳 Tiếng Việt</a> |
@@ -47,7 +49,9 @@
 
 ---
 
-# 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%9A%80%20About%20Me&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <img 
   align="right" 
@@ -71,7 +75,9 @@ Currently I focus on:
 
 ---
 
-# 🧠 Skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%A7%A0%20Skills&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <img
 align="right" 
@@ -109,7 +115,9 @@ alt="Coding animation"
 
 ---
 
-## 🏆 Academic Achievements, Honors & Certificates
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%8F%86%20Academic%20Achievements&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <img 
   align="right" 
@@ -344,7 +352,9 @@ Issued by **Google for Education**, recognizing knowledge, skills, and applied c
 
 ---
 
-# 📌 Highlight Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%93%8C%20Highlight%20Projects&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <img 
   align="right" 
@@ -370,7 +380,9 @@ A front-end storefront website for premium imported fruits and luxury fruit gift
 
 ---
 
-# 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gibor06&theme=github_dark" alt="GitHub stats" />
@@ -525,37 +537,27 @@ My long-term goal is to become a professional software engineer capable of desig
 
 ---
 
-# 📫 Contact
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&section=header&text=%F0%9F%93%AB%20Contact&fontSize=32&fontColor=60A5FA&animation=fadeIn" />
+</p>
 
-<img 
-  align="right" 
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ1b2xwM3Q1aDVjY2c0MGdrNXRiZXM4bHRuOWo3cjNmMGV0bGJnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a1sT9SraNGqytYOydi/giphy.gif" 
-  width="250" 
-  alt="Coding animation"
-/>
+<p align="center">
 
-<br>
-<br>
-<br>
-<br>
+  <a href="mailto:gibor06.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gibor06" title = "gibor06"/>
+  </a>
 
-<p align="left">
+  <a href="https://www.facebook.com/gibor06">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="gibor06" title = "gibor06"/>
+  </a>
 
-<a href="mailto:gibor06.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gibor06" title = "gibor06"/>
-</a>
+  <a href="https://www.instagram.com/gibor06/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="gibor06" title = "gibor06"/>
+  </a>
 
-<a href="https://www.facebook.com/gibor06">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="gibor06" title = "gibor06"/>
-</a>
-
-<a href="https://www.instagram.com/gibor06/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="gibor06" title = "gibor06"/>
-</a>
-
-</br>
-
-More Infomation: <a href= "https://linktr.ee/gibor06" title = "gibor06"> `gibor06` </a>
+  <a href="https://linktr.ee/gibor06">
+      <img src="https://img.shields.io/badge/More%20Info-Linktree-60A5FA?style=for-the-badge&logo=linktree&logoColor=white" />
+    </a>
 
 </p>
 
