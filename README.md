@@ -51,7 +51,7 @@
 
 <img 
   align="right" 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFrdjY0c3F6eXBkN3k1MmVnbnlxaDN3Y2J1Nmk1NmR6MHM4cjlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0YmQ2NmxzOGt2NXA2aTJybHBqYmdicTAyaGJseDYxa2EyZWF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" 
   width="350" 
   alt="Coding animation"
 />
@@ -73,11 +73,11 @@ Currently I focus on:
 
 # 🧠 Skills
 
-<img 
-  align="right" 
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0YmQ2NmxzOGt2NXA2aTJybHBqYmdicTAyaGJseDYxa2EyZWF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" 
-  width="400" 
-  alt="Coding animation"
+<img
+align="right" 
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA5OXE0M2I3aHhoZTk1NWpoeGJtd2FwanZqaGdpMHhtdHBsa2Y4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/71Zt7QAxpqDUe3c8rK/giphy.gif"
+width="400"
+alt="Coding animation"
 />
 
 ### Programming Languages
@@ -348,7 +348,7 @@ Issued by **Google for Education**, recognizing knowledge, skills, and applied c
 
 <img 
   align="right" 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNsZzZwOWZhYnV5eG4xaDY4MzJ6aHFpY29lM3Z6NDRmMDd2N2RvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkLnexguD7I4KkpZE8/giphy.gif" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVnN251NW9keGU5czN2NTNwOHJyeWYwMWN6c2ZjdHZsM2Y1czdsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NdS5JYPZz6yPkXrpD5/giphy.gif" 
   height="350" 
   alt="Coding animation"
 />
@@ -529,12 +529,17 @@ My long-term goal is to become a professional software engineer capable of desig
 
 <img 
   align="right" 
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR2bzFwbDBpcTFsejZidGM4eXh4NjVyOXQwMzdwYm5rbXJ5aGppbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyJPNKBskIDWR3Md8K/giphy.gif" 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ1b2xwM3Q1aDVjY2c0MGdrNXRiZXM4bHRuOWo3cjNmMGV0bGJnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a1sT9SraNGqytYOydi/giphy.gif" 
   width="250" 
   alt="Coding animation"
 />
 
-<p align="center">
+<br>
+<br>
+<br>
+<br>
+
+<p align="left">
 
 <a href="mailto:gibor06.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gibor06" title = "gibor06"/>
